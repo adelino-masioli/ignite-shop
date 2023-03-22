@@ -7,6 +7,6 @@ During the Ignite program, the immersion of Next.js brought the development of a
 
 Below is a preview of how the application looks.
 
-<img alt="Ignite Shop Product" src="src/assets/product.png" />
 <img alt="Ignite Shop Products" src="src/assets/products.png" />
+<img alt="Ignite Shop Product" src="src/assets/product.png" />
 <img alt="Ignite Shop Stripe" src="src/assets/stripe.png" />
